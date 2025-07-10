@@ -8,6 +8,20 @@
       "when": 1751991882583,
       "tag": "0000_wild_the_hood",
       "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "7",
+      "when": 1752161899103,
+      "tag": "0001_fuzzy_tattoo",
+      "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "7",
+      "when": 1752171813761,
+      "tag": "0002_steady_jackpot",
+      "breakpoints": true
     }
   ]
 }
