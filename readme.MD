@@ -62,7 +62,7 @@ npx drizzle-kit migrate
 docker-compose up -d
 ```
 
-### 6. Rode as migrations e seeds
+### 6. Rode os seeds
 
 ```sh
 npm run db:seed
