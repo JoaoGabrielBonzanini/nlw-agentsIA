@@ -29,9 +29,9 @@ Content-Type: application/json
 ###
 
 #Create question
-POST {{baseUrl}}/rooms/0dbc2f98-4968-44be-4fdb-f399737e5e21/questions
+POST {{baseUrl}}/rooms/a6732832-9805-4da4-f281-fa7773aff23b/questions
 Content-Type: application/json
 
 {
-    "question": "What is a question?"
+    "question": "O que é futebol?"
 }

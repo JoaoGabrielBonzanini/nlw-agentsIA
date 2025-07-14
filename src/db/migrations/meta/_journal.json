@@ -22,6 +22,20 @@
       "when": 1752171813761,
       "tag": "0002_steady_jackpot",
       "breakpoints": true
+    },
+    {
+      "idx": 3,
+      "version": "7",
+      "when": 1752248488924,
+      "tag": "0003_bright_legion",
+      "breakpoints": true
+    },
+    {
+      "idx": 4,
+      "version": "7",
+      "when": 1752252527057,
+      "tag": "0004_stiff_xavin",
+      "breakpoints": true
     }
   ]
 }
